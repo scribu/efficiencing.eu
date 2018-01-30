@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.0">Jekyll</generator><link href="https://efficiencing.eu/feed.xml" rel="self" type="application/atom+xml" /><link href="https://efficiencing.eu/" rel="alternate" type="text/html" /><updated>2018-01-30T19:33:20+02:00</updated><id>https://efficiencing.eu/</id><title type="html">Efficiencing</title><subtitle>A software consulting agency, based in Europe.</subtitle><author><name>Cristi Burcă</name></author><entry><title type="html">My Experience with TransferWise Borderless Accounts</title><link href="https://efficiencing.eu/finance/transferwise-borderless/" rel="alternate" type="text/html" title="My Experience with TransferWise Borderless Accounts" /><published>2018-01-30T00:00:00+02:00</published><updated>2018-01-30T00:00:00+02:00</updated><id>https://efficiencing.eu/finance/transferwise-borderless</id><content type="html" xml:base="https://efficiencing.eu/finance/transferwise-borderless/">&lt;p&gt;&lt;img alt=&quot;TransferWise logo&quot; src=&quot;/assets/img/transferwise-identity-01.jpg&quot; class=&quot;pull-right&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When buying things online, you probably use a credit or debit card. It’s fast and convenient. But when making larger purchases, it makes sense to look at all available options.&lt;/p&gt;
+
+&lt;p&gt;I live in Romania, which has an obscure currency (RON). That means I have to pay a sizable conversion fee any time I want to buy something from abroad.&lt;/p&gt;
+
+&lt;p&gt;Most Romanian banks have a foreing exchange spread of at least 3%, which means I’m paying a 1.5% fee each way. For sums larger than €10.000, you can negotiate a better transaction rate, but for smaller sums you’re out of luck (unless you have very high volume).&lt;/p&gt;
+
+&lt;p&gt;Besides the conversion fee, banks also charge a transaction fee of 0.1% or more. This fee can’t be lowered, at least not for mere mortals.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-promise-of-cheap-international-transfers&quot;&gt;The Promise of Cheap International Transfers&lt;/h2&gt;
+
+&lt;p&gt;TransferWise guarantees a total fee of exactly 1% for RON transfers, making it cheaper than using most banks. That was reason enough for me to give it a try.&lt;/p&gt;
+
+&lt;p&gt;At first, TransferWise was just another money transfer service, similar to Western Union or Moneygram - you could send funds to a specific person, but not to a specific bank account. You can ask a family member to go pick up the cash, but you can hardly ask online shops or business partners to do the same thing.&lt;/p&gt;
+
+&lt;p&gt;Recently, however, they fixed this problem by introducing a feature called a “borderless account”. This is just a collection of regular bank accounts in various countries, managed in one place.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-a-transferwise-account&quot;&gt;Setting up a TransferWise account&lt;/h2&gt;
+
+&lt;h3 id=&quot;day-1&quot;&gt;Day 1&lt;/h3&gt;
+
+&lt;p&gt;Signing up for an account is a breeze. Before I can make any transfers, I have to upload two documents: a proof of identity and a proof of address.&lt;/p&gt;
+
+&lt;p&gt;I already had a picture of my national identity card, so I use that as proof of identity. For proving my address, I just generat a statement from my local bank and upload it.&lt;/p&gt;
+
+&lt;h3 id=&quot;day-2&quot;&gt;Day 2&lt;/h3&gt;
+
+&lt;p&gt;My account is approved. I activated the currencies I’d be using most often, namely RON, USD and EUR.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;TransferWise Balances&quot; src=&quot;/assets/img/transferwise-borderless.png&quot; class=&quot;full-width&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;making-my-first-transfer&quot;&gt;Making my first transfer&lt;/h2&gt;
+
+&lt;p&gt;I transfer RON into my TransferWise account from my domestic bank. It has a trivial fee (5 RON).&lt;/p&gt;
+
+&lt;h3 id=&quot;day-3&quot;&gt;Day 3&lt;/h3&gt;
+&lt;p&gt;Convert RON to USD - As promised, the fee is 1%, minus the fees for getting funds in and out of TransferWise.&lt;/p&gt;
+
+&lt;p&gt;Initiate USD transfer to a bank in the United States.&lt;/p&gt;
+
+&lt;h3 id=&quot;day-4&quot;&gt;Day 4&lt;/h3&gt;
+
+&lt;p&gt;Check up on the transfer status and notice the site is only partially loading. Turns out they recently did a redesign and were having some trouble with their servers.&lt;/p&gt;
+
+&lt;h3 id=&quot;day-5&quot;&gt;Day 5&lt;/h3&gt;
+
+&lt;p&gt;Get an email saying my transfer bounced back. It turned out that their UI silently “corrects” bank account numbers that contain letters.&lt;/p&gt;
+
+&lt;p&gt;The only option the UI presented was to fix the recipient details. Given that the account I was trying to send funds to wasn’t acceptable to the system, I had to call Transferwise support to get them to cancel the transfer.&lt;/p&gt;
+
+&lt;h2 id=&quot;giving-it-another-go&quot;&gt;Giving it another go&lt;/h2&gt;
+
+&lt;h3 id=&quot;day-6&quot;&gt;Day 6&lt;/h3&gt;
+
+&lt;p&gt;The funds show up in my borderless account again.&lt;/p&gt;
+
+&lt;p&gt;I do another conversion, from USD to EUR, incurring another 1% fee.&lt;/p&gt;
+
+&lt;p&gt;I initiate a transfer from my EUR balance to another EUR account within &lt;abbr title=&quot;Single Euro Payments Area&quot;&gt;SEPA&lt;/abbr&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;day-7&quot;&gt;Day 7&lt;/h3&gt;
+
+&lt;p&gt;I see the funds in the destination account.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I had the bad luck of conducting my experiment during a period when the website was experiencing some technical difficulties. Assuming this only happens once in a blue moon, I’m not going to hold that against them.&lt;/p&gt;
+
+&lt;p&gt;I &lt;em&gt;am&lt;/em&gt; however dissapointed that transfers to virtual accounts don’t work. At the very least, I would have expected my transfer request to be rejected immediately, instead of the UI silently changing the transfer details and then having to wait 2 days for the transfer to bounce back.&lt;/p&gt;
+
+&lt;p&gt;Other than that, TransferWise seems like a good service: transparent fees, friendly user interface and decent phone support.&lt;/p&gt;
+
+&lt;p&gt;If you want to know more about my experience, feel free to send me an email at &lt;a href=&quot;mailto:cristi@efficiencing.eu&quot;&gt;cristi@efficiencing.eu&lt;/a&gt; or a tweet &lt;a href=&quot;https://twitter.com/EfficiencingEu&quot;&gt;@EfficiencingEu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And if you’d like to try TransferWise yourself, consider using &lt;a href=&quot;https://transferwise.com/u/silviu-cristianb&quot;&gt;this affiliate link&lt;/a&gt;. You’ll get a free transaction and I’ll eventually get L250 (I’m not sure what “L” stands for).&lt;/p&gt;</content><author><name>Cristi Burcă</name></author><category term="finance" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://efficiencing.eu/assets/img/transferwise-identity-01.jpg" /></entry><entry><title type="html">How do you set up your own online store?</title><link href="https://efficiencing.eu/ecommerce/online-store-setup/" rel="alternate" type="text/html" title="How do you set up your own online store?" /><published>2018-01-23T18:58:24+02:00</published><updated>2018-01-23T18:58:24+02:00</updated><id>https://efficiencing.eu/ecommerce/online-store-setup</id><content type="html" xml:base="https://efficiencing.eu/ecommerce/online-store-setup/">&lt;p&gt;&lt;img class=&quot;pull-right&quot; alt=&quot;shopping cart&quot; src=&quot;/assets/img/shopping-cart-1x.png&quot; srcset=&quot;/assets/img/shopping-cart-2x.png 2x&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s say you already have some experience selling stuff online through an existing marketplace, like Amazon, Etsy etc. But what if that marketplace doesn’t serve customers in a region you’re interested in? Or what if they don’t offer a feature that’s essential for your type of product?&lt;/p&gt;
+
+&lt;p&gt;Both of those are excellent reasons for starting your own online store! &lt;span style=&quot;font-weight: 400;&quot;&gt;In this short guide I’ll give you a high-level overview of all the things you’ll need to take care of in order to have a successful independent online shop. Let’s get started.&lt;/span&gt;&lt;/p&gt;
+&lt;h3&gt;1. Decide who your ideal customer is.&lt;/h3&gt;
+&lt;p&gt;Before you do anything else, make sure you have a clear idea of who you want to sell to. The more specific it is, the easier it will be to tailor everything to their needs and differentiate yourself from the competition.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, if you’re &lt;em&gt;too&lt;/em&gt; specific, the market might not be big enough to justify the investment. Still, it’s easier to start from a very narrow niche and gradually expand, than the other way around.&lt;/p&gt;
+&lt;h3&gt;2. Build your brand.&lt;/h3&gt;
+&lt;p&gt;A brand is just a name that people come to associate with certain traits, either positive or negative. You can influence this both through the quality of service you offer, as well as through the image you project.&lt;/p&gt;
+
+&lt;p&gt;To that end, you will need to choose an appropriate name and get a logo. You don’t need to spend a fortune on this, but it pays to have a professional designer handle this for you.&lt;/p&gt;
+
+&lt;p&gt;Once you have those basics down, you can make the design of your store fit the brand.&lt;/p&gt;
+&lt;h3&gt;3. Build the store.&lt;/h3&gt;
+&lt;p&gt;There are actually several levels of automation you could go for. Each level requires more sophisticated software and services:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;Online product catalog: Users can see a list of your products online, but ordering is manual. They have to place an order via phone, email or other type of message.&lt;/li&gt;
+	&lt;li&gt;Online shopping cart: Users can add products to a shopping cart and make an order, but they have to pay on delivery or via bank transfer.&lt;/li&gt;
+	&lt;li&gt;Online payment: Users can both make orders and pay for them online, through a payment gateway. I'll talk more about gateways in a future blog post.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You can start directly at the last level, but it’s not mandatory.&lt;/p&gt;
+&lt;h3&gt;4. Attract customers to your store.&lt;/h3&gt;
+&lt;p&gt;On an established marketplace, you have a built-in audience. But when you’re running your own shop, you will have to attract potential buyers yourself.&lt;/p&gt;
+
+&lt;p&gt;The most important sources of online traffic are search engines (primarily Google) and social media (Facebook, Twitter, Reddit etc.).&lt;/p&gt;
+
+&lt;p&gt;It boils down to figuring out where your customers are and how to talk their language. There are various software tools that can help you with this, but expect to put some serious effort into this area.&lt;/p&gt;
+&lt;h3&gt;5. Optimise the shopping experience.&lt;/h3&gt;
+&lt;p&gt;Once you have people visiting your store, you can start to analyse their behaviour and make sure they’re finding what they’re looking for.&lt;/p&gt;
+
+&lt;p&gt;The first step is installing a web analytics service, such as Google Analytics. This will allow you to see where your visitors are coming from, what pages they’re looking at and so on.&lt;/p&gt;
+
+&lt;p&gt;The next step is doing what’s called A/B testing. Basically, you present two versions of a page to different users and see which version gets a better reaction. It’s a very powerful technique, but also involves some subtle statistics.&lt;/p&gt;
+&lt;h3&gt;6. Keep in touch with customers.&lt;/h3&gt;
+&lt;p&gt;After a visitor makes a purchase, you should do at least these two things:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;Ask them for feedback. What did they like and what caused frustration?&lt;/li&gt;
+	&lt;li&gt;Ask them to join your newsletter. This gives you a way to send them promotions later on.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ideally, both of these steps are integrated into your purchase flow. If you’d have to manually do this for each customer, you probably wouldn’t bother and you’d miss a big opportunity to gain loyal customers.&lt;/p&gt;
+&lt;h3&gt;Conclusion&lt;/h3&gt;
+&lt;p&gt;There you have it. I’ve only just scratched the surface, but I hope I’ve given you some idea about what’s needed to break out on your own. Good luck!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If you’re ready to take your business to the next level, I can help you choose, implement and customise the best solution for your online store. Just send me an email at &lt;a href=&quot;mailto:cristi@efficiencing.eu&quot;&gt;cristi@efficiencing.eu&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;small&gt;Icon made by &lt;a rel=&quot;nofollow&quot; href=&quot;http://www.freepik.com&quot; title=&quot;Freepik&quot;&gt;Freepik&lt;/a&gt;, licensed under &lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/&quot; title=&quot;Creative Commons BY 3.0&quot; target=&quot;_blank&quot;&gt;CC 3.0 BY&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content><author><name>Cristi Burcă</name></author><category term="ecommerce" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://efficiencing.eu/assets/img/shopping-cart-2x.png" /></entry></feed>
